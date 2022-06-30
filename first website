@@ -1,0 +1,40 @@
+<!DOCTYPE html?>
+<html lang="en">
+<head>
+<title> My first HTML page</title>
+<meta charset="utf-8">
+</head>
+<body>
+Hello World My First Page!
+<h1>Hello</h1>
+<h2>Hello</h2>
+<h3>Hello</h3>
+<h4>Hello</h4>
+<h5>Hello</h5>
+<h6>Hello</h6>
+<br>
+<p> <b>My first paragraph goes her to describe my content and my website.</b>
+<br><i>Welcome to the first elements of <strong>HTML5</i>
+</p>
+<blockquote>Representative Liz Cheney said that Trump allies had been intimidating witnesses. One message said, “He knows you’re loyal.” Here’s the latest.
+</blockquote>
+<ul>
+<li>Java</li>
+<li>Python</li>
+<li>C#</li>
+<li>Boostrap</li>
+<li>Github</li>
+<ol>
+<li>Java</li>
+<li>Python</li>
+<li>C#</li>
+<li>Boostrap</li>
+<li>Github</li>
+<ol>
+  <hr>
+<footer> <a href="https://www.google.com/search?q=html5+structural+elements&rlz=1C5CHFA_enUS893US898&oq=html5+struc&aqs=chrome.1.0i512l2j69i57j0i512l7.6088j0j7&sourceid=chrome&ie=UTF-8
+  ">Contact us &copy; © 2022 The New York Times Company
+  <a href="mailto:mickey@aol.com">mickey@aol.com</a>
+</footer>
+</body>
+</html>
